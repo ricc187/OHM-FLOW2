@@ -1,0 +1,7 @@
+{
+  "name": "OHM FLOW",
+  "description": "Système de gestion de chantiers pour électriciens. Remplace Excel par une interface mobile et desktop performante permettant le suivi des heures, du matériel et des documents techniques.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
